@@ -1,2 +1,3 @@
-# testingrepo
-repo made to test github templates
+# Title
+
+Writing my test article here 
